@@ -57,7 +57,8 @@ function App() {
               type="" value={email}
               placeholder="Enter Your Email"
               onChange={handleEmailChange}
-              style={{ border: emailValid ? '1px solid green' : '1px solid red' }} /></div>
+              style={{ border: emailValid ? '1px solid green' : '1px solid red' }} />
+              {email !== '' && !emailValid && <p style={{ color: 'red' }}>Enter a valid email</p>}</div>
 
           </div>
           <div className='inner-container'>
