@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sign-up-form-week-1/static/css/main.0284a565.css",
+    "main.js": "/sign-up-form-week-1/static/js/main.1ebd44ff.js",
+    "static/js/787.04bfa32f.chunk.js": "/sign-up-form-week-1/static/js/787.04bfa32f.chunk.js",
+    "index.html": "/sign-up-form-week-1/index.html",
+    "main.0284a565.css.map": "/sign-up-form-week-1/static/css/main.0284a565.css.map",
+    "main.1ebd44ff.js.map": "/sign-up-form-week-1/static/js/main.1ebd44ff.js.map",
+    "787.04bfa32f.chunk.js.map": "/sign-up-form-week-1/static/js/787.04bfa32f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0284a565.css",
+    "static/js/main.1ebd44ff.js"
+  ]
+}
